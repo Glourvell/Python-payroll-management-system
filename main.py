@@ -35,3 +35,5 @@ def deduction_calculator(gross_salary):
 
 deduction_calculator(200)
 salary_calculator(20000)
+
+print('HELLO WORLD')
